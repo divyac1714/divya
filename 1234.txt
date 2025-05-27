@@ -1,6 +1,3 @@
 1234
 abcd
 zxy
-mnop
-po
-lmn
