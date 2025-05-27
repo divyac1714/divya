@@ -1,7 +1,7 @@
 1234
 abcd
 zxy
-<<<<<<< HEAD
+
 =======
 mnop
 po
@@ -9,4 +9,3 @@ lmn
 lmnopq
 jdfhudfl bj
 jshdjshdfvuiyuihj
->>>>>>> c7671b5 (123456)
